@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Pro 14",
+    "description": "Ordinateur portable performant, idéal pour le travail et les études. Processeur rapide, écran net, autonomie confortable pour toute la journée.",
+    "price": 1200.0,
+    "imageUrl": "assets/laptop.png",
+    "category": "Informatique"
+  },
+  {
+    "id": "2",
+    "name": "Laptop Gamer 16",
+    "description": "Modèle orienté performance avec carte graphique dédiée, pensé pour les jeux gourmands et la création de contenu.",
+    "price": 1800.0,
+    "imageUrl": "assets/laptop.png",
+    "category": "Informatique"
+  },
+  {
+    "id": "3",
+    "name": "Smartphone X",
+    "description": "Smartphone dernière génération avec un bel écran, un appareil photo polyvalent et une batterie qui tient la journée.",
+    "price": 800.0,
+    "imageUrl": "assets/smartphone.jpeg",
+    "category": "Téléphone"
+  },
+  {
+    "id": "4",
+    "name": "Smartphone Lite",
+    "description": "Version plus abordable, parfaite pour un usage quotidien : appels, réseaux sociaux et navigation web.",
+    "price": 450.0,
+    "imageUrl": "assets/smartphone.jpeg",
+    "category": "Téléphone"
+  },
+  {
+    "id": "5",
+    "name": "Casque Bluetooth",
+    "description": "Casque sans fil léger avec une bonne qualité sonore, pratique pour les trajets et le télétravail.",
+    "price": 150.0,
+    "imageUrl": "assets/caques.jpeg",
+    "category": "Audio"
+  },
+  {
+    "id": "6",
+    "name": "Casque Studio",
+    "description": "Casque circum-aural haut de gamme avec réduction de bruit, pensé pour les amateurs de musique exigeants.",
+    "price": 250.0,
+    "imageUrl": "assets/caques.jpeg",
+    "category": "Audio"
+  }
+]
